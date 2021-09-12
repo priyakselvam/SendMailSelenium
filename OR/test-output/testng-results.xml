@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36504" started-at="2019-04-16T10:38:49Z" finished-at="2019-04-16T10:39:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36504" started-at="2019-04-16T10:38:49Z" finished-at="2019-04-16T10:39:26Z">
+      <class name="com.acuver.opsroom.automation.test.ApplicationTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.acuver.opsroom.automation.test.ApplicationTest@59fa1d9b]" name="beforeTest" is-config="true" duration-ms="3764" started-at="2019-04-16T10:38:49Z" finished-at="2019-04-16T10:38:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testApplicationSanity(com.acuver.opsroom.automation.test.TestData)[pri:0, instance:com.acuver.opsroom.automation.test.ApplicationTest@59fa1d9b]" name="testApplicationSanity" duration-ms="30760" started-at="2019-04-16T10:38:55Z" data-provider="externalDataProvider" finished-at="2019-04-16T10:39:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test 1 - Test MS QA environment]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApplicationSanity -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.acuver.opsroom.automation.test.ApplicationTest@59fa1d9b]" name="afterTest" is-config="true" duration-ms="158" started-at="2019-04-16T10:39:26Z" finished-at="2019-04-16T10:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.acuver.opsroom.automation.test.ApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

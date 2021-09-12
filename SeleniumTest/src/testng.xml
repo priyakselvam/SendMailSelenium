@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="com.acuver.opsroom.automation.test.ApplicationTest" />
+		</classes>
+	</test>
+</suite>
